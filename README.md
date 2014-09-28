@@ -3,7 +3,7 @@ ark
 
 A Sinatra Boilerplate.
 
-## make your ark
+### make your ark
 
 requires: `bundler`, `foreman`
 
